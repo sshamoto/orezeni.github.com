@@ -40,11 +40,7 @@ blockquote p {
   margin-bottom: 1em;
 }
 
-a {
-  color: #00913B;
-}
-
-a:hover {
+a, a:hover {
   color: #00913B;
 }
 
